@@ -4,7 +4,7 @@ public class one
 	{
 
 		int x = 0; 
-		for (int y = 0; y < 100; y++)
+		for (int y = 0; y < 1000; y++)
 		{
 			if ((y % 3 == 0) ||(y % 5 ==0))
 			{
